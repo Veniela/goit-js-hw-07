@@ -96,6 +96,78 @@ body {
   transition: transform 0.3s ease;
 }
 
+/* Anonymous 3 */
+
+.placeholder {
+  width: 360px;
+  height: 40px;
+  border-radius: 4px;
+
+  font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+  
+    line-height: 150%;
+    letter-spacing: 0.04em;
+    color: #2e2f42;
+}
+
+.name-input {
+  font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    font-size: 24px;
+  
+    line-height: 133%;
+    letter-spacing: 0.04em;
+    color: #2e2f42;
+}
+
+/* Login and Pass 4 */
+.login-form {
+  font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+  
+    line-height: 150%;
+    letter-spacing: 0.04em;
+    color: #2e2f42;
+}
+
+.input {
+width: 360px;
+height: 40px;
+border-radius: 4px;
+
+  justify-content: center;
+  flex-direction: column;
+  color: 808080;
+}
+
+.input:hover {
+  color: 000000;
+}
+
+.buttom-form {
+  border-radius: 8px;
+  border: none;
+  padding: 8px 16px;
+  width: 86px;
+  height: 40px;
+  background: #4e75ff;
+
+    font-family: "Montserrat", sans-serif;
+      font-weight: 500;
+      font-size: 16px;
+    
+      line-height: 150%;
+      letter-spacing: 0.04em;
+      color: #fff;
+}
+
+.buttom-form:hover {
+  background: #6c8cff;
+}
+
 /* Color 5 */
 .color {
   font-family: "Montserrat", sans-serif;
